@@ -12,15 +12,15 @@ If you have any questions, please email: talatalat35@gmail.com
 
 Some photos of the app:
 
-!\[p1](Ekran görüntüsü 2025-08-01 013221)
+!\[p1](ss1.png)
 
-!\[p2](Ekran görüntüsü 2025-08-01 013236.png)
+!\[p2](ss2.png)
 
-!\[p3](Ekran görüntüsü 2025-08-01 013307.png)
+!\[p3](ss3.png)
 
 
 
 invoice file created as pdf:
 
-\[Bill](Fatura\_20250801013415.pdf)
+\[Bill](invoice.pdf)
 
