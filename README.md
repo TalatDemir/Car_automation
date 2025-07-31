@@ -12,7 +12,7 @@ If you have any questions, please email: talatalat35@gmail.com
 
 Some photos of the app:
 
-!\[p1](Ekran görüntüsü 2025-08-01 013221.png)
+!\[p1](Ekran görüntüsü 2025-08-01 013221)
 
 !\[p2](Ekran görüntüsü 2025-08-01 013236.png)
 
@@ -20,7 +20,7 @@ Some photos of the app:
 
 
 
-invoice file created as pdf: 
+invoice file created as pdf:
 
 \[Bill](Fatura\_20250801013415.pdf)
 
