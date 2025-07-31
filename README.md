@@ -14,15 +14,15 @@ Some photos of the app:
 
 
 
-!\[p1](ss1.png)
+![p1](ss1.png)
 
-!\[p2](ss2.png)
+![p2](ss2.png)
 
-!\[p3](ss3.png)
+![p3](ss3.png)
 
 
 
 invoice file created as pdf:
 
-\[Bill](invoice.pdf)
+[Bill](invoice.pdf)
 
