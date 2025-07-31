@@ -9,3 +9,18 @@ It contains three files: the SQLite3 code written to create the database for the
 A simple and useful application, have fun!
 
 If you have any questions, please email: talatalat35@gmail.com
+
+Some photos of the app:
+
+!\[p1](Ekran görüntüsü 2025-08-01 013221.png)
+
+!\[p2](Ekran görüntüsü 2025-08-01 013236.png)
+
+!\[p3](Ekran görüntüsü 2025-08-01 013307.png)
+
+
+
+invoice file created as pdf: 
+
+\[Bill](Fatura\_20250801013415.pdf)
+
